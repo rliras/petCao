@@ -1,7 +1,7 @@
 # petCao
 Projeto modelo Pet Shop e Veterinária
 
-
+![iconfinder_Pet_patient_3775240](https://user-images.githubusercontent.com/60659583/73759176-53f5ef80-474a-11ea-9e94-d79e87f89eba.png)
 
 ## História
 
