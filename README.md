@@ -1,8 +1,6 @@
 # petCao
 Projeto modelo Pet Shop e Veterinária
 
-![iconfinder_Pet_patient_3775240](https://user-images.githubusercontent.com/60659583/73759176-53f5ef80-474a-11ea-9e94-d79e87f89eba.png)
-
 ## História
 
 Nosso Programador pegou um trabalho freelancer de uma veterinária que tinha urgencia de colocar o website online antes que ela fosse viajar.
@@ -24,4 +22,12 @@ A cliente ficou convencida que se tratava de um profissional e decidiu continuar
 - [ ] Testes
 - [ ] Entrega
 
-### 
+### Assets
+
+#### Logo
+
+<img src="https://user-images.githubusercontent.com/60659583/73759176-53f5ef80-474a-11ea-9e94-d79e87f89eba.png" width="100" height="100">
+
+#### Cores
+
+hexa: #004680 Classic Blue Pantone
