@@ -31,3 +31,4 @@ A cliente ficou convencida que se tratava de um profissional e decidiu continuar
 #### Cores
 
 hexa: #004680 Classic Blue Pantone
+<img src="https://user-images.githubusercontent.com/60659583/73768037-1b104780-4757-11ea-8bd4-9a2712b79b8a.png">
