@@ -38,7 +38,7 @@ hexa: #004680 Classic Blue Pantone
 
 
 
-- [Combo de combinação de cores](https://paletton.com/#uid=73y0u0k++oTYy+7++w7+Oin+q9T)
+- [Combinação de cores](https://paletton.com/#uid=73y0u0k++oTYy+7++w7+Oin+q9T)
 - [Icones](https://www.iconfinder.com/)
 
 
