@@ -1,6 +1,8 @@
 # petCao
 Projeto modelo Pet Shop e Veterinária
 
+
+
 ## História
 
 Nosso Programador pegou um trabalho freelancer de uma veterinária que tinha urgencia de colocar o website online antes que ela fosse viajar.
@@ -14,9 +16,12 @@ A cliente ficou convencida que se tratava de um profissional e decidiu continuar
 ### Lista de afazeres
 
 - [x] Levantamento de prerequistitos
+- [x] Analise
 - [x] Desenvolvimento do banco de dados
 - [ ] Layout
 - [ ] Customização do layout
 - [ ] Desenvovlvimento do PHP
 - [ ] Testes
 - [ ] Entrega
+
+### 
