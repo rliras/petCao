@@ -30,12 +30,25 @@ A cliente ficou convencida que se tratava de um profissional e decidiu continuar
 
 #### Cores
 
+##### Cor Predominante
+
 hexa: #004680 Classic Blue Pantone
 
 <img src="https://user-images.githubusercontent.com/60659583/73768037-1b104780-4757-11ea-8bd4-9a2712b79b8a.png">
 
-### Links úteis
 
+##### Outras Cores
+
+´´´
+$My-Color1: #001D33;
+$My-Color2: #147DCC;
+$My-Color3: #004980;
+$My-Color4: #C77700;
+$My-Color5: #FF9900;
+´´´
+
+
+### Links úteis
 
 
 - [Combinação de cores](https://paletton.com/#uid=73y0u0k++oTYy+7++w7+Oin+q9T)
@@ -43,7 +56,6 @@ hexa: #004680 Classic Blue Pantone
 - [Icones](https://www.svgrepo.com/svg/242929/veterinarian)
 
 - [Color Whell](https://color.adobe.com/pt/create/color-wheel/)
-
 
 
 
