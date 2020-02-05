@@ -42,7 +42,7 @@ hexa: #004680 Classic Blue Pantone
 
 - [Icones](https://www.svgrepo.com/svg/242929/veterinarian)
 
-
+- [Color Whell](https://color.adobe.com/pt/create/color-wheel/)
 
 
 
