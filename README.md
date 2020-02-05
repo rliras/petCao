@@ -52,8 +52,6 @@ $My-Color5: #FF9900;
 ### Links úteis
 
 
-- [Combinação de cores](https://paletton.com/#uid=73y0u0k++oTYy+7++w7+Oin+q9T)
-
 - [Icones](https://www.svgrepo.com/svg/242929/veterinarian)
 
 - [Color Whell](https://color.adobe.com/pt/create/color-wheel/)
