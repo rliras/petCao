@@ -26,7 +26,7 @@ A cliente ficou convencida que se tratava de um profissional e decidiu continuar
 
 #### Logo
 
-<img src="https://user-images.githubusercontent.com/60659583/73759176-53f5ef80-474a-11ea-9e94-d79e87f89eba.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/60659583/73879731-c09ce700-483b-11ea-9d27-0fbe63a87835.png" width="100" height="100" alt="veterinarian">
 
 #### Cores
 
@@ -39,7 +39,8 @@ hexa: #004680 Classic Blue Pantone
 
 
 - [Combinação de cores](https://paletton.com/#uid=73y0u0k++oTYy+7++w7+Oin+q9T)
-- [Icones](https://www.iconfinder.com/)
+
+- [Icones](https://www.svgrepo.com/svg/242929/veterinarian)
 
 
 
