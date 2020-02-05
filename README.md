@@ -39,13 +39,13 @@ hexa: #004680 Classic Blue Pantone
 
 ##### Outras Cores
 
-´´´
+```
 $My-Color1: #001D33;
 $My-Color2: #147DCC;
 $My-Color3: #004980;
 $My-Color4: #C77700;
 $My-Color5: #FF9900;
-´´´
+```
 
 
 ### Links úteis
