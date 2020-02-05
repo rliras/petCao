@@ -46,6 +46,7 @@ $My-Color3: #004980;
 $My-Color4: #C77700;
 $My-Color5: #FF9900;
 ```
+[Ver as Cores](https://color.adobe.com/pt/My-Color-Theme-color-theme-14286194)
 
 
 ### Links úteis
