@@ -56,7 +56,7 @@ Banco: banco_petcao.sql
 Tabelas: 
 ```
 ╔═════════════════╦═════════════════╦═══════════════════╗
-║ cadastro_pessoa ║ cadastro_animal ║ ficha_atendimento ║
+║ **cadastro_pessoa** ║ **cadastro_animal** ║ **ficha_atendimento** ║
 ╠═════════════════╬═════════════════╬═══════════════════╣
 ║ id_pessoa       ║ id_animal       ║ id_ficha          ║
 ╠═════════════════╬═════════════════╬═══════════════════╣
